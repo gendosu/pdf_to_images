@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    iconv (1.0.8)
+    pdftoimage (0.1.7)
+      iconv (~> 1.0)
+    rmagick (4.2.4)
+
+PLATFORMS
+  aarch64-linux
+
+DEPENDENCIES
+  pdftoimage
+  rmagick
+
+BUNDLED WITH
+   2.3.3
